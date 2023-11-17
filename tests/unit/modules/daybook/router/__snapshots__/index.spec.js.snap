@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el router module del Daybook el router debe de tener esta configuración 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "component": Any<Function>,
+      "name": "no-entry",
+      "path": "",
+    },
+    Object {
+      "component": Any<Function>,
+      "name": "entry",
+      "path": ":id",
+      "props": Any<Function>,
+    },
+  ],
+  "component": Any<Function>,
+  "name": "daybook",
+}
+`;
